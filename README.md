@@ -2,3 +2,5 @@ Laying out the [765 unique gameboards of tic-tac-toe](https://github.com/knutsyn
 
 * 29 columns (A–AA)
 * 27 rows (1–27)
+
+The resulting SVG was brought into Adobe Illustrator CC for final assembly and print production.
